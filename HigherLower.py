@@ -353,8 +353,8 @@ while(endofloop):
         if i == 'follower_count':
             compB = B[i]
 
-    print(compA)
-    print(compB)
+    #print(compA)
+    #print(compB)
 
     Acount = 0
     Bcount = 0
